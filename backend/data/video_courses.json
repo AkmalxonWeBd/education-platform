@@ -1,0 +1,81 @@
+[
+  {
+    "title": "test",
+    "description": "yetskosvsd",
+    "is_free": true,
+    "allowed_group_ids": [],
+    "teacher_id": "59be4a1d-8ddf-434a-bbb7-0ef7882d9536",
+    "videos": [],
+    "created_at": "2025-11-11T23:05:27.639883",
+    "updated_at": "2025-11-11T23:05:27.640881",
+    "id": "66eec89e-668a-4349-912b-680d18a1fb01",
+    "createdAt": "2025-11-11T18:05:27.640881"
+  },
+  {
+    "title": "test1",
+    "description": "sdjijkskmsmkas",
+    "is_free": true,
+    "allowed_group_ids": [
+      "9c75316f-ad98-4b21-8d64-10cd7cfb6337"
+    ],
+    "teacher_id": "59be4a1d-8ddf-434a-bbb7-0ef7882d9536",
+    "videos": [
+      {
+        "title": "tesstsjsdf",
+        "description": "sdcwef32ewds",
+        "video_url": "https://www.youtube.com/watch?v=-nshmaaFWdk",
+        "id": "db455870-3b73-44eb-9ec1-40212406c8d1",
+        "quizzes": [
+          {
+            "question": "bu nima",
+            "answers": [
+              {
+                "text": "test1",
+                "is_correct": false
+              },
+              {
+                "text": "test2",
+                "is_correct": false
+              },
+              {
+                "text": "test3",
+                "is_correct": true
+              },
+              {
+                "text": "test4",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "testsdsc 2",
+            "answers": [
+              {
+                "text": "test1 ",
+                "is_correct": false
+              },
+              {
+                "text": "test2",
+                "is_correct": true
+              },
+              {
+                "text": "test3",
+                "is_correct": false
+              },
+              {
+                "text": "test4",
+                "is_correct": false
+              }
+            ]
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "created_at": "2025-11-11T23:14:32.435653",
+    "updated_at": "2025-11-11T23:25:10.574516",
+    "id": "5b69d3c5-bfcd-4177-9ace-d949a89c6453",
+    "createdAt": "2025-11-11T18:14:32.435653",
+    "updatedAt": "2025-11-11T18:25:10.574516"
+  }
+]

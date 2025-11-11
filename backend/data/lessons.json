@@ -1,0 +1,48 @@
+[
+  {
+    "title": "test",
+    "subject": "test",
+    "description": "test",
+    "assessmentElements": [
+      {
+        "name": "Midterm",
+        "weight": 30
+      },
+      {
+        "name": "Final",
+        "weight": 40
+      },
+      {
+        "name": "Topshiriq",
+        "weight": 30
+      }
+    ],
+    "groupId": null,
+    "teacherId": "32e9f796-1a66-43b3-95ef-6973b9786265",
+    "createdAt": "2025-11-07T06:04:10.126170",
+    "id": "22b74e7b-00e1-4d24-83da-c02aab26702d"
+  },
+  {
+    "title": "test1",
+    "subject": "test1",
+    "description": "test",
+    "assessmentElements": [
+      {
+        "name": "Midterm",
+        "weight": 30
+      },
+      {
+        "name": "Final",
+        "weight": 40
+      },
+      {
+        "name": "Topshiriq",
+        "weight": 30
+      }
+    ],
+    "groupId": null,
+    "teacherId": "32e9f796-1a66-43b3-95ef-6973b9786265",
+    "createdAt": "2025-11-07T06:08:32.929343",
+    "id": "68897f26-c8e4-467e-9f61-2228bf35be48"
+  }
+]

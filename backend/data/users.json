@@ -1,0 +1,50 @@
+[
+  {
+    "email": "admin@education.uz",
+    "name": "Super Admin",
+    "password": "$2b$12$QCuQsWno53omxjyzm0Fy7uGRTqBUKVO/rNhFKiiYy1L1WAOL6msg.",
+    "role": "super_admin",
+    "phone": "+998901234567",
+    "schoolId": null,
+    "createdAt": "2025-11-11T15:11:47.329474",
+    "id": "1566f3b3-a8bf-4116-88c9-9e00414a007c",
+    "created_at": "2025-11-11T16:50:02.368018",
+    "updatedAt": "2025-11-11T16:50:02.390003"
+  },
+  {
+    "email": "test@education.uz",
+    "name": "test",
+    "password": "$2b$12$5XKfsCWq.kNPTv9FSFj4puysIRT8YEdCXeHpyQjoyCfzxG8oqR1lW",
+    "role": "school_admin",
+    "phone": "",
+    "school_id": null,
+    "group_id": null,
+    "created_at": "2025-11-11T17:14:27.067619",
+    "id": "7d539ac7-f394-49ad-8181-2501b841002e",
+    "createdAt": "2025-11-11T17:14:27.069619"
+  },
+  {
+    "email": "tolibjon@education.uz",
+    "name": "Tolibjon",
+    "password": "$2b$12$3ygcrEoS1jCaBFQ1qNfB5.Anuy8rKdLy.jxWufbDxuFWhWNMAc9ti",
+    "role": "teacher",
+    "phone": "",
+    "school_id": null,
+    "group_id": null,
+    "created_at": "2025-11-11T17:15:21.265900",
+    "id": "59be4a1d-8ddf-434a-bbb7-0ef7882d9536",
+    "createdAt": "2025-11-11T17:15:21.266898"
+  },
+  {
+    "email": "akmalxon@education.uz",
+    "name": "akmalxon",
+    "password": "$2b$12$XL77lLVu2a1Zyiilu3VN0OWd.fL7tutUmrysPojHKqXf5Wz2A21NK",
+    "role": "student",
+    "phone": null,
+    "school_id": null,
+    "group_id": "9c75316f-ad98-4b21-8d64-10cd7cfb6337",
+    "created_at": "2025-11-11T17:51:27.683871",
+    "id": "08e9f149-fb4d-4376-9908-980ad96986cd",
+    "createdAt": "2025-11-11T17:51:27.683871"
+  }
+]

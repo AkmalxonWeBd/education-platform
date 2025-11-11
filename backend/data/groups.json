@@ -1,0 +1,34 @@
+[
+  {
+    "name": "test",
+    "teacher_id": "59be4a1d-8ddf-434a-bbb7-0ef7882d9536",
+    "schedule": [
+      {
+        "day": "monday",
+        "start_time": "14:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "wednesday",
+        "start_time": "14:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "friday",
+        "start_time": "14:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "sunday",
+        "start_time": "14:00",
+        "end_time": "16:00"
+      }
+    ],
+    "description": "test",
+    "student_ids": ["9c75316f-ad98-4b21-8d64-10cd7cfb6337"],
+    "created_at": "2025-11-11T22:31:29.782034",
+    "updated_at": "2025-11-11T22:31:29.782034",
+    "id": "9c75316f-ad98-4b21-8d64-10cd7cfb6337",
+    "createdAt": "2025-11-11T17:31:29.782034"
+  }
+]
