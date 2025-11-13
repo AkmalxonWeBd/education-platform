@@ -1,6 +1,6 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react"
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api"
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api" || "http://64.227.77.236:8000/api"
 
 export const chatsApi = createApi({
   reducerPath: "chatsApi",
